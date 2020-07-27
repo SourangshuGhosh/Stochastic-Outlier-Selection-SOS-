@@ -1,7 +1,7 @@
-scikit-sos
+Stochastic-Outlier-Selection-SOS
 ==========
 
-scikit-sos is a Python module for Stochastic Outlier Selection (SOS). It
+Stochastic-Outlier-Selection-SOS is a Python module for Stochastic Outlier Selection (SOS). It
 is compatible with scikit-learn. SOS is an unsupervised outlier selection
 algorithm. It uses the concept of affinity to compute an outlier probability
 for each data point.
