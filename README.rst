@@ -16,12 +16,7 @@ Selection <https://github.com/jeroenjanssens/sos/blob/master/doc/sos-ticc-tr-201
 Technical Report TiCC TR 2012-001, Tilburg University, Tilburg, the
 Netherlands, 2012.
 
-Install
--------
 
-.. code:: bash
-
-   pip install scikit-sos
 
 
 Usage
@@ -90,4 +85,4 @@ License
 -------
 
 All software in this repository is distributed under the terms of the
-BSD Simplified License. The full license is in the LICENSE file.
+MIT License. The full license is in the LICENSE file.
