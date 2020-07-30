@@ -4,7 +4,7 @@ class SOS(object):
 
     """Stochastic Outlier Selection.
 
-    Copyright (c) 2013, Jeroen Janssens
+    Copyright (c) 2020, Sourangshu Ghosh
     All rights reserved.
 
     Distributed under the terms of the BSD Simplified License.
